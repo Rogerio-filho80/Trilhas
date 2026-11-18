@@ -1,0 +1,70 @@
+<XML>
+    <Banco>
+    
+        <NomeBanco>Manhuaçu-MG</NomeBanco>
+        </Banco>
+            <Agencias>
+            <Agencia1>
+                <AgenciaCadastro>
+                <Numero>0316-5</Numero>
+                <NomeAgencia>15.904-2</NomeAgencia>
+                <EnderecoAgencia>Poa. Coordvil Pinto Coelho, 156</EnderecoAgencia>
+                <Bairro >Centro</Bairro>
+                <Cidade>Manhuaçu</Cidade>
+                <Estado>MG</Estado>
+                </AgenciaCadastro>
+                <Contas>
+                    <Conta1>
+                        <Tipo>Corrente</Tipo>
+                        <Numero>15.904-2</Numero>
+                        <Saldo>1500.00</Saldo>
+                        <Correntista>
+                            <Nome>João da Silva Oliveira</Nome>
+                            <CPF>123.098.134-99</CPF>
+                            <Numero>10</Numero>
+                            <Estado>MG</Estado>
+                            <Cidade>Manhuaçu</Cidade>
+                            <Telefone>(33) 98810-1515</Telefone>
+                        </Correntista>
+                        <Movimentos>
+                                <Movimento1>
+                                    <Data>01/04/2024</Data>
+                                    <TipoMovimento>Credito</TipoMovimento>
+                                    <Descricao>Deposito inicial</Descricao>
+                                    <Valor>5000,00</Valor>
+                                </Movimento1>
+                                <Movimento2>
+                                    <Data>01/04/2024</Data>
+                                    <TipoMovimento>Debito</TipoMovimento>
+                                    <Descricao>Pagamento Supermecado</Descricao>
+                                    <Valor>1000,00</Valor>
+                                </Movimento2>
+                                <Movimento3>
+                                    <Data>01/04/2024</Data>
+                                    <TipoMovimento>Debito</TipoMovimento>
+                                    <Descricao>Pagamento Aluguel</Descricao>
+                                    <Valor>2000,00</Valor>
+                                </Movimento3>
+                                <Movimento4>
+                                    <Data>02/04/2024</Data>
+                                    <TipoMovimento>Debito</TipoMovimento>
+                                    <Descricao>Plano de Saúde</Descricao>
+                                    <Valor>500,00</Valor>
+                                </Movimento4>
+                        </Movimentos>
+                    </Conta1>
+                </Contas>
+            </Agencia1>
+            <Agencia2>
+                <AgenciaCadastro>
+                    <Numero>0317-5</Numero>
+                    <NomeAgencia>Manhumirim-Centro</NomeAgencia>
+                    <EnderecoAgencia>Rua principal, 10</EnderecoAgencia>
+                    <Bairro >Centro</Bairro>
+                    <Cidade>MAnhumirim</Cidade>
+                    <Estado>MG</Estado>
+                </AgenciaCadastro>
+            </Agencia2>
+            </Agencias>
+    </Banco>
+</XML>
